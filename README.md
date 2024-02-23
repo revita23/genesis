@@ -1,4 +1,4 @@
-# 🔺 The Bermuda Testnet 🔺
+# 🔺 The Bermuda 🔺
 
 Owshen is an innovative privacy platform developed for EVM-based blockchains. Owshen's very first testnet, The Bermuda Testnet has launched! Excited to check it out? Just follow these steps!)
 
